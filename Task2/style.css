@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Dancing+Script&family=Lobster&family=Roboto+Condensed&display=swap');
+
+header {
+    font-family: 'Lobster', cursive;
+    font-size: 49px;
+    color: white;
+    background-color: #109E97;
+    text-align: center;
+    padding-top: 33px;
+    padding-bottom: 49px;
+}
+
+#sekil1 {
+    width: 30%;
+    margin: auto;
+    height: 450px;
+}
+
+#InnerBox {
+    width: 60%;
+    margin: auto;
+}
+
+#OutBox {
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #FFD6D6;
+    margin-top: 100px;
+}
+
+#box1 {
+    border: 2px solid #B0E9B0;
+    vertical-align: top;
+    margin-bottom: 113px;
+}
+
+#box1 h1,
+h2 {
+    display: inline-block;
+}
+
+#box1 h1 {
+    color: #109E97;
+    font-size: 1.5em;
+}
+
+#box1 h2 {
+    color: red;
+    font-weight: 500;
+    font-size: 1em;
+}
+
+#box2 {
+    border: 2px solid #B0E9B0;
+}
+
+#myBtn {
+    background-color: #109E97;
+    color: white;
+    padding: 12px 19px;
+    outline: none;
+    border: none;
+    text-align: center;
+    margin: 0px;
+}
+
+table {
+    width: 60%;
+    margin: auto;
+}
+
+td{
+    border-bottom: 1px solid gray;
+}
+
+#OutBox2{
+    width: 60%;
+    margin: auto;
+    margin-top: 174px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    margin-bottom: 148px;
+}
+
+#sekil2 {
+    width: 25%;
+    margin: auto;
+    height: 500px;
+    margin-top: 0px;
+}
+
+#label {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+#sekil3 {
+    width: 25%;
+    margin: auto;
+    margin-top: 0px;
+    height: 500px;
+}
+
+button {
+    background-color: #109E97;
+    color: white;
+    padding: 12px 19px;
+    outline: none;
+    border: none;
+    text-align: center;
+    margin: 0px;
+}
+
+footer {
+    background-color: #109E97;
+    color: white;
+    padding: 50px 0px; 
+}
