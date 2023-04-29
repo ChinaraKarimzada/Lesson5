@@ -1,132 +1,129 @@
 @import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Dancing+Script&family=Lobster&family=Roboto+Condensed&display=swap');
 
-header{
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Dancing+Script&family=Lobster&family=Roboto+Condensed&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Dancing+Script&family=Lobster&family=Roboto+Condensed&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Dancing+Script&family=Lobster&family=Roboto+Condensed&display=swap');
+
+
+/* Style Start */
+
+header {
     color: #109E97;
     font-size: 49px;
     font-family: 'Lobster', cursive;
     text-align: center;
+}
 
+hr {
+    color: #000000;
 }
-hr{
-    color:#000000;
-    
-}
-@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Dancing+Script&family=Lobster&family=Roboto+Condensed&display=swap');
-#a{
+
+#a {
     font-size: 23px;
     font-family: 'Roboto Condensed', sans-serif;
-    ;
 }
-#b{
+
+#b {
     color: #008000;
     font-size: 25px;
     display: inline-block;
 }
-#c{
+
+#c {
     color: #FF0000;
     font-size: 15px;
     display: inline-block;
 }
 
-#inner{
+#inner {
     background-color: #000000;
-    color:white;
+    color: white;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 18px;
-    
     text-align: right;
     border: 1px solid black;
-
 }
-#outer{
+
+#outer {
     background-color: #000000;
     color: white;
     text-align: right;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 20px;
-    width: 1890px;
-    height: 200px;
-    left: 8px;
-    top: 552px;
-    
-
-
+    padding: 5px;
 }
-@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Dancing+Script&family=Lobster&family=Roboto+Condensed&display=swap');
 
-#f{
+#f {
     font-size: 16px;
-    font-smooth:'Roboto Condensed', sans-serif ;
+    font-smooth: 'Roboto Condensed', sans-serif;
 }
-@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Dancing+Script&family=Lobster&family=Roboto+Condensed&display=swap');
 
-table{
-    width: 1441px;
+table {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
 }
-hr{
+
+hr {
     border: solid 1px;
 }
-#g{
+
+#g {
     font-size: 24px;
     text-align: center;
 }
 
-#label{
-    display: inline-block;
-    width: 20%;
-    margin-left:200px ;
-    
-    
-    
-    
-
-
+#sekil1 {
+    height: 302px;
 }
-#sekil2{
-    width: 300px;
+
+#OuterBox{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+}
+
+#label {
+    display: inline-block;
+    width: 45%;
+    margin: auto;
+    text-align: center;
+}
+
+#sekil2 {
+    width: 25%;
+    margin: auto;
     height: 478px;
     text-align: left;
-    margin-top: 50px;
-    
-    
-}
-#sekil1{
-width: 200px;
-height: 302px;
 }
 
-#sekil3{
-    width: 300px;
+#sekil3 {
+    width: 25%;
     height: 478px;
     text-align: right;
-    margin-left: 300px;
-    
-    margin-top: 50px;
-    
-    
 }
-#pic1{
-    display: inline-block;
-}
-#pic2{
-    display: inline-block;
-    
-}
-div ul li{
+
+div ul li {
     color: #0000EE;
+    margin: 3px;
 }
-#ul{
-    margin-bottom: 40px;
+
+#ul {
+    margin: 40px;
 }
-#footer{
-    width: 1822px;
-    height: 86px;
+
+#footer {
     background-color: #109E97;
     text-align: center;
     color: white;
-    
+    padding: 25px;
 }
 
-button{
-background-color: #109E97;
+button {
+    background-color: #109E97;
 }
